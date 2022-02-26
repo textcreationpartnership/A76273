@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The priviledges of the House of Commons in Parliament assembled. Wherein 'tis proved their power is equall with that of the House of Lords, if not greater, though the King joyn with the Lords. However it appears that both the houses have a power above the King, if he vote contrary to them. All which is proved by severall presidents taken out of Parliament rolls in the Tower· By P.B. Gentleman.</title>
+            <author>P. B., Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76273</idno>
+            <idno type="STC">Wing B154</idno>
+            <idno type="STC">Thomason E83_39</idno>
+            <idno type="STC">ESTC R1046</idno>
+            <idno type="EEBO-CITATION">99858842</idno>
+            <idno type="PROQUEST">99858842</idno>
+            <idno type="VID">110901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110901)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The priviledges of the House of Commons in Parliament assembled. Wherein 'tis proved their power is equall with that of the House of Lords, if not greater, though the King joyn with the Lords. However it appears that both the houses have a power above the King, if he vote contrary to them. All which is proved by severall presidents taken out of Parliament rolls in the Tower· By P.B. Gentleman.</title>
+                  <author>P. B., Gentleman.</author>
+                  <author>Bland, Peter, of Gray's Inne, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Peter Bland.</note>
+                  <note>Annotation on Thomason copy: "Decemb 31".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Great Britain --  Constitutional history --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110901:1"/>
+            <pb facs="tcp:110901:1" rendition="simple:additions"/>
+            <p>THE PRIVILEDGES Of the Houſe of COMMONS IN PARLIAMENT Aſſembled.</p>
+            <p>Wherein 'tis proved their Power is equall with that of the Houſe of Lords, if not greater, though the King joyn with the Lords.</p>
+            <p>However it appears that both the Houſes have a Power above the King, if He Vote contrary to them.</p>
+            <p>All which is proved by ſeverall Preſidents taken out of Parliament Rolls in the TOWER.</p>
+            <p>By <hi>P. B.</hi> Gentleman.</p>
+            <p>
+               <add>Decemb 31</add>
+               <hi>London,</hi> Printed for <hi>J. R.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:110901:2"/>
+            <pb n="3" facs="tcp:110901:2"/>
+            <head>
+               <figure>
+                  <figDesc>Tudor rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>The Priviledges of the Houſe OF COMMONS IN PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen after the period of the Saxon time, <hi>Harold</hi> had lifted himſelf into the Royall Seat; the great men to whom but lately he was no more then equall, either in fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tune or power, diſdaining that Act of Arrogancy, called in <hi>William</hi> then Duke of <hi>Normandy,</hi> a Prince more active then any in theſe Weſtern-parts, and renowned for many Victories, he had moſt fortunately atchieved againſt the French King, then the moſt potent Monarch in <hi>Europe.</hi>
+            </p>
+            <p>This Duke led along with him to this work of glory,
+<pb n="4" facs="tcp:110901:3"/>
+many of the younger Sonnes of the beſt Families of <hi>Nor<g ref="char:EOLhyphen"/>mandy, Picardy,</hi> and <hi>Flaunders,</hi> who as undertakers, ac<g ref="char:EOLhyphen"/>companyed the undertaking of this fortunate man.</p>
+            <p>The Uſurper was ſlain, and the Crown by this Duke was gained; and to ſecure certain to his poſterity, what he had ſo ſuddenly gotten, he ſhared out his purchaſe, retaining in each County a portion to ſupport the Dignity, Soveraign, which was ſtyled <hi>Demenia Regni;</hi> and aſſigning to the reſt of his Adventures, ſuch portions as ſuited to their quality and expence, he retained to himſelf, dependancy of their perſonall ſervice, except ſuch Lands as in free Alms were the portion of the Church; and theſe were ſtyled <hi>Barones Regis,</hi> the Kings immediate Freeholders, for the word <hi>Baro</hi> im<g ref="char:EOLhyphen"/>ported then no more.</p>
+            <p>Now as the King to theſe, ſo theſe to their followers, ſubdivided part of their ſhares into Knights Fees, and their Tennants were called <hi>Barones C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mites,</hi> for we (as in the Kings Writs) in their writs, <hi>Baronibus ſuis &amp; Francois &amp; Anglois,</hi> the Soveraign gifts for the moſt part extending to whole Counties, or Hundreds; an Earl being Lord of the one, and a Baron of the inferiour Donations to Lords of Townſhips or Mannors.</p>
+            <p>And as the Land, ſo was all courſe of Judicature divided, even from the meaneſt, to the higheſt portion, each ſeverall had his Court of Law; preferring ſtill the manner of our Anceſtors, the <hi>Saxons,</hi> who <hi>jura per pages reddebant;</hi> and theſe are ſtill termed Court-Barons, or the Freeholders-Court, twelve uſually in number; who with the Thame or chief Lord were Judges.</p>
+            <p>The Hundred that was next, where the <hi>Hundredus</hi> or <hi>Aldermanus,</hi> Lord of the Hundred, with the chief Lord of each Townſhip within their Lymits were Judges.</p>
+            <p>The County or <hi>generale placitum</hi> was the next, This was to ſupply the defect or remedy, the corruption of the infe<g ref="char:EOLhyphen"/>riour Courts. <hi>
+                  <g ref="char:V">Ʋ</g>bi curiae Dominorum probantur defeciſſe,
+<pb n="5" facs="tcp:110901:3"/>
+pertinet ad vicecomitem provinciarum;</hi> and the Judges here were <hi>Comites, Vicecomites, &amp; Barones Comitatus quiliberas terras habebant.</hi>
+            </p>
+            <p>The laſt and ſupreme (and upon which I am to treat) was <hi>generale placitum apud London, <g ref="char:V">Ʋ</g>niverſalis Synodus</hi> in the Charters of the Conqueror, <hi>Capitalis curia</hi> by <hi>Glanvile,</hi> or <hi>magnum &amp; commune conſilium coram rege &amp; magnatibus ſuis.</hi>
+            </p>
+            <p>In the Rolles of <hi>Henry</hi> the third, It is not Stative but ſummoned by Proclamation, <hi>Edicitur generale placitum apud London,</hi> (ſaith the Book of <hi>Abingdon</hi>) whether <hi>Epium Du<g ref="char:EOLhyphen"/>ces principes, Satrapae rectores, &amp; cauſidici ex omni parte confluxerunt ad iſtam curiam,</hi> ſaith <hi>Glanvile.</hi> Cauſes were referred, <hi>propter aliquam dubitationem quae emergit in Comi<g ref="char:EOLhyphen"/>tatu, cum Comitatus neſcit dijudicare.</hi> Thus did <hi>Ethelweld</hi> Biſhop of <hi>Wincheſter,</hi> transferre his ſuite againſt <hi>Leoſtine</hi> from the County, <hi>ad generale placitum;</hi> In the time of King <hi>Etheldred,</hi> Queen <hi>Edoine</hi> againſt <hi>Goda</hi> from the County, ap<g ref="char:EOLhyphen"/>peald to King <hi>Etheldred</hi> at <hi>London, Congregatis principibus &amp; Angliae ſapientibus,</hi> In the tenth yeer of the Conqueror, <hi>Epiſcopi, Comites, &amp; Barones Regni ad <g ref="char:V">Ʋ</g>niverſal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Synodum pro cauſis audiendis &amp; tractandis convocati,</hi> faith the Book of <hi>Westminster;</hi> and this continued all along in the ſucceeding Kings raign, untill towards the end of <hi>Henry</hi> the third.</p>
+            <p>As this great Court or Councell, conſiſting of the King and Barons, ruled the great affairs of State, and controuled all inferiour Courts: So were there certain Officers, whoſe tranſcendent Power ſeemed to be ſet to bound in the execu<g ref="char:EOLhyphen"/>tion of Princes Wills, as the Steward, Conſtable, and Mar<g ref="char:EOLhyphen"/>ſhall, fixt upon Families in Fee for many Ages; They as Tribunes of the people, (or <hi>ex plori<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> among the <hi>Atherians</hi>) grown by unmanly courage, fearfull to Monarchy, fell at the feet and mercy of the King, when the daring Earl of <hi>Leiceſter</hi> was ſlain at <hi>Eveſham.</hi>
+            </p>
+            <p>This chance, and the dear experience, <hi>Henry</hi> the third himſelf had made at the Parliament at <hi>Oxford,</hi> in the fortieth
+<pb n="6" facs="tcp:110901:4"/>
+yeer of his raign, and the memory of the many ſtreights his Father was driven unto (eſpecially at <hi>Rumny-Mead</hi> neer <hi>Stanes</hi>) brought this King wiſely to begin what his Succeſ<g ref="char:EOLhyphen"/>ſor fortunately finiſhed in leſſening the ſtrength and power of his great Lords; and this was wrought by ſearching in<g ref="char:EOLhyphen"/>to the Regality they had uſurped over their peculiar Sove<g ref="char:EOLhyphen"/>raigne, whereby they were as the Book of Saint <hi>Alban<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> termeth them, <hi>Quot domini tot tiranni;</hi> and by the weakning that hand of Power which they carried in the Parliaments, by commanding the Service of many Knights, Citizens, and Burgeſſes, to that <hi>Magnum conſilium,</hi> or <hi>generale placi<g ref="char:EOLhyphen"/>tum,</hi> which we ſtill call Parliament.</p>
+            <p>Now began the frequent ſending of Writs to the Com<g ref="char:EOLhyphen"/>mons, their aſſent being uſed not only in Money, Charge, and making of Laws, (for before all Ordinances were paſſed by the King and Peers) but their conſent is likewiſe uſed in all Judgements of all Natures, either Civill or Cri<g ref="char:EOLhyphen"/>minall: In proof whereof, I will produce ſome few pre<g ref="char:EOLhyphen"/>ſidents out of Record.</p>
+            <p>When <hi>Adamor</hi> that proude Prelate of <hi>Wincheſter,</hi> the Kings half Brother, had grieved the State by his daring Power, he was exiled by joynt ſentence of the King, the Lords and Commons; and this appears expreſſely by the Letter ſent from Pope <hi>Alexander</hi> the fourth, Expoſtulating a Revocation of him from baniſhment, becauſe he was a Church-man, and ſo not ſubject to any cenſure; to this the anſwer was, <hi>Si dominus Rex &amp; regni Majores hoc vellint</hi> (meaning his Revocation) <hi>Communitas tamen ipſius ingreſ<g ref="char:EOLhyphen"/>ſum in Angliam nullatenus ſuſtincret.</hi> The Peers ſubſigned this anſwer with their names; and <hi>Petrus de Mountford vice totius communitatis,</hi> as Speaker of the Commons. <hi>Lib. S. Alban. fol.</hi> 20. <hi>Anno</hi> 44. <hi>H.</hi> 3.</p>
+            <p>And by that ſtyle, Sir <hi>John Tiptofe,</hi> Prolocutor, affirmeth under his Arms, the deed of intail of the Crown by King <hi>Henry</hi> 4. in the 8. yeer of his raign for all the Commons.</p>
+            <p>
+               <pb n="7" facs="tcp:110901:4"/>The baniſhment of the two <hi>Spencers</hi> in <hi>Edward</hi> the ſeconds time, <hi>praelati Comites &amp; Barones &amp; les auters Peers de la terre &amp; Communes de be Roialme,</hi> give conſent and ſen<g ref="char:EOLhyphen"/>tence to the Revocation and Reverſment of the former ſen<g ref="char:EOLhyphen"/>tence; The Lords and Commons accord, and ſo it is ex<g ref="char:EOLhyphen"/>preſſed in the Roll.</p>
+            <p>When <hi>Elizabeth</hi> the Widdow of Sir <hi>John de Burgo</hi> com<g ref="char:EOLhyphen"/>plained in Parliament, that <hi>Hugh Spencer</hi> the younger, <hi>Robert Boldock,</hi> and <hi>William Clift</hi> his Inſtruments had by dureſſe, forced her to make a writing to the King, whereby ſhe was deſpoiled of all her Inheritance; ſentence is given for her in theſe words, <hi>Pur ceo que avis eſt al Eveſques Counts &amp; Barones &amp; les auters grandes, &amp; a tout Cominalte de la terre que le dit eſcript eſt ſuit encounter le ley, &amp; tout manner de raiſon ſi ſuiſt le dit eſcript per agard del Parliament dampne elloques al liure a le dit Elizab.</hi>
+            </p>
+            <p>In <hi>Anno</hi> the fourth of <hi>Edward</hi> the third, <hi>Prarl. Prim. rot.</hi> 11. It appears by a Letter to the Pope, That to the ſen<g ref="char:EOLhyphen"/>tence given againſt the Earl of <hi>Kent,</hi> the Commons were Parties, as well as the Lords, or Peers; for the King directed their proceeding in theſe words; <hi>Comitibus Magnatibus Baronibus &amp; alliis de Communitate dicti regni ad Parliamen<g ref="char:EOLhyphen"/>tum illud congregatis injunximus ut ſuper his diſcercerent &amp; judicarent quod rationi &amp; juſtitiae conveniret, &amp; haberent pro oculis ſolum deum qui eum concordi, &amp;c.</hi>
+            </p>
+            <p>When in the fortieth yeer of <hi>Edward</hi> the third, the Lords had pronounced the ſentence againſt <hi>Richard Lions,</hi> other<g ref="char:EOLhyphen"/>wiſe then the Commons agreed to. The Commons appeald to the King himſelf, and had redreſſe, and the ſentence entred to their deſires; Yet this does not prove that the Kings Power is ſo farre beyond the Parliaments, as that he can do what he will, notwithſtanding them.</p>
+            <p>When in the firſt yeer of <hi>Richard</hi> the ſecond, <hi>William Weston,</hi> and <hi>John Jennings,</hi> were arraigned in Parliament, for ſurrendring certain Forts of the Kings; the Commons
+<pb n="8" facs="tcp:110901:5"/>
+were parties to the ſentence given againſt them as appears by a <hi>Memorandum</hi> annext to that Record.</p>
+            <p>In the firſt of <hi>Henry</hi> the fourth, Although the Commons referred by Proteſtation, the pronouncing of ſentence of depoſition againſt <hi>Richard</hi> the ſecond, unto the Lords; yet they are equally interreſſed in it, as it appears by the Record. For there was made Proctors or Commiſſioners for the whole Parliament, one B. one Abbot, one Earl, one Baron, and two Knights, <hi>Grey</hi> and <hi>Erpingham,</hi> for the Commons; and to inferre, that becauſe the Lords pronounced the ſen<g ref="char:EOLhyphen"/>tence, the point of judgement ſhould be only theirs, wer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as abſurd as to conclude, That no authority was left in any other Commiſſioner of Oyer and Terminor, then in the Perſon of that man ſolely that ſpeaks the ſentence.</p>
+            <p>In the ſecond of <hi>Henry</hi> the fifth, The Petition of the Commons importeth, no leſſe then a right they had to Act and Aſſent to all things in Parliament, and ſo it was anſwered by the King; and had not the adjournall Roll of the higher Houſe bin left to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſole entry of the Clark of that Houſe (who either out of his neglect to obſerve due forme, or out of purpoſe to obſcure the Commons right, and to flatter them, which he immediately ſerved) there would have been frequent examples of all times to clear this doubt, and to preſerve a juſt intereſt to the Common-wealth; and moſt conveniently doth it ſuite with Monarchy to maintain this forme, leaſt others of that well framed body, knit un<g ref="char:EOLhyphen"/>der one head ſhould ſwell too great and monſtrous: Mo<g ref="char:EOLhyphen"/>narchy again may ſooner groan under the weight of an Ariſtocracy as it once did, then under Democracy, which it never yet either felt or feared.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
